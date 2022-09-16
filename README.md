@@ -1,6 +1,6 @@
 ### Hello world
 
-I'm, Kathryn, a cardiovascular geneticist focusing now on bioinformatics at Imperial College London, UK. 
+I'm Kathryn, a cardiovascular geneticist focusing now on bioinformatics at Imperial College London, UK. 
 
 I am scientifically curious and there is so much more to learn! Particularly in genetics and heart disease.
 
