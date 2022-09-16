@@ -8,7 +8,9 @@ I'm a self-taught R user with some training in bioinformatics and/or statistics 
 
 The code I share here or contribute to elsewhere is usually linked to my publications, listed below.
 
-Respository: [kmcgurk/TaurineDCM]
+Repository: [ImperialCardioGenetics/variantfx] The penetrance of rare cardiomyopathy-associated DNA variants: a cross-sectional approach to estimate penetrance using large case series. McGurk K., et al., 2022, Final draft.
+
+Repository: [kmcgurk/TaurineDCM]
 Effect of taurine administration on symptoms, severity, or clinical outcome of dilated cardiomyopathy and heart failure in humans: a systematic review.
 McGurk K., et al., Feb 2022, Wellcome Open Res.
 doi: 10.12688/wellcomeopenres.17505.2
