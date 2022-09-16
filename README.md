@@ -11,7 +11,7 @@ The code I share here or contribute to elsewhere is usually linked to my publica
 Respository: [kmcgurk/TaurineDCM]
 Effect of taurine administration on symptoms, severity, or clinical outcome of dilated cardiomyopathy and heart failure in humans: a systematic review.
 McGurk K., et al., Feb 2022, Wellcome Open Res.
-doi: https://doi.org/10.12688/wellcomeopenres.17505.2
+doi: 10.12688/wellcomeopenres.17505.2
 
 Repository: [ImperialCollegeLondon/HCM_expressivity]
 Phenotypic expression and outcomes in individuals with rare genetic variants of hypertrophic cardiomyopathy.
