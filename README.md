@@ -2,7 +2,7 @@
 
 I'm Kathryn, a cardiovascular geneticist / bioinformatician at Imperial College London, UK. 
 
-I'm a self-taught R user with some training in bioinformatics and/or statistics from the University Oxford, University of Cambridge, MRC Biostatistics Unit, and Wellcome Trust Genome Campus. I use HPCs, bash, linux, and python, to get the job done, and Rmarkdown and jupyter lab for code! I have a background analysing metabolomic data (bioactive lipids), proteomic data, and now I analyse the UK Biobank data, 100,000 Genomes Project data, and patient genetic and phenotype data [see https://scholar.google.com/citations?user=303gY3sAAAAJ&hl=en]. 
+I'm a self-taught R user with some training in bioinformatics and/or statistics from the University Oxford, University of Cambridge, MRC Biostatistics Unit, and Wellcome Trust Genome Campus. I use HPCs, bash, linux, and python, to get the job done, and Rmarkdown and jupyter lab for code! I have a background analysing metabolomic data (bioactive lipids), proteomic data, and now I analyse the UK Biobank data, 100,000 Genomes Project data, and patient genetic and phenotype data [see https://bit.ly/3dubFqy]. 
 
 The code I share here or contribute to elsewhere is usually linked to my publications, listed below.
 
