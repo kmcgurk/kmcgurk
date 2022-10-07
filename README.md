@@ -10,6 +10,10 @@ Repository: [ImperialCardioGenetics/variantfx] The penetrance of rare cardiomyop
 McGurk K., et al., 2022, Final draft.
 doi: TBC
 
+Repository: [ImperialCollegeLondon/fractalgenetics/fractal-analysis-processing/] Rare variant and phenotype analyses of adult cardiac trabecular morphology in the UK Biobank.
+McGurk K., et al., TBC.
+doi: TBC
+
 Repository: [kmcgurk/TaurineDCM]
 Effect of taurine administration on symptoms, severity, or clinical outcome of dilated cardiomyopathy and heart failure in humans: a systematic review.
 McGurk K., et al., Feb 2022, Wellcome Open Res.
