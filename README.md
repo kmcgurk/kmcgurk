@@ -21,7 +21,7 @@ Effect of taurine administration on symptoms, severity, or clinical outcome of d
 McGurk K., et al., Feb 2022, Wellcome Open Res.
 doi: 10.12688/wellcomeopenres.17505.2
 
-Repository: `ImperialCollegeLondon/HCM_expressivity`
+Repository: `ImperialCollegeLondon/HCM_expressivity/`
 Phenotypic expression and outcomes in individuals with rare genetic variants of hypertrophic cardiomyopathy.
 de Marvao A., McGurk K., et al., Sep 2021, JACC.
 doi: 10.1016/j.jacc.2021.07.017
