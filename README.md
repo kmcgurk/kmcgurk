@@ -9,29 +9,39 @@ The code I share here or contribute to elsewhere is usually linked to publicatio
 Repository: `ImperialCardioGenetics/Scoliosis/`
 
 Identification of an increased lifetime risk of major adverse cardiovascular events in participants of the UK Biobank with scoliosis.
+
 Santofimio V., et al. Final draft.
+
 doi: TBC
 
 Repository: `ImperialCardioGenetics/variantfx/`
 
 The penetrance of rare cardiomyopathy-associated DNA variants: a cross-sectional approach to estimate penetrance using large case series.
+
 McGurk K., et al., 2022, Final draft.
+
 doi: TBC
 
 Repository: `ImperialCollegeLondon/fractalgenetics/`
 
 Rare variant and phenotype analyses of adult cardiac trabecular morphology in the UK Biobank.
+
 McGurk K., et al., TBC.
+
 doi: TBC
 
 Repository: `kmcgurk/TaurineDCM/`
 
 Effect of taurine administration on symptoms, severity, or clinical outcome of dilated cardiomyopathy and heart failure in humans: a systematic review.
+
 McGurk K., et al., Feb 2022, Wellcome Open Res.
+
 doi: 10.12688/wellcomeopenres.17505.2
 
 Repository: `ImperialCollegeLondon/HCM_expressivity/`
 
 Phenotypic expression and outcomes in individuals with rare genetic variants of hypertrophic cardiomyopathy.
+
 de Marvao A., McGurk K., et al., Sep 2021, JACC.
+
 doi: 10.1016/j.jacc.2021.07.017
