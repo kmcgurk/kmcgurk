@@ -1,10 +1,16 @@
 ### Hello world
 
-I'm Kathryn, a cardiovascular geneticist / bioinformatician at Imperial College London, UK. 
+I'm Kathryn McGurk, a cardiovascular geneticist / bioinformatician at Imperial College London, UK. 
 
 I'm a self-taught R user with training in bioinformatics and/or statistics from the University Oxford, University of Cambridge, MRC Biostatistics Unit, and Wellcome Trust Genome Campus. I use HPCs, bash, linux, and python, to get the job done, and Rmarkdown and jupyter lab for code. I have a background analysing metabolomic data (bioactive lipids), proteomic data, and now I analyse the UK Biobank data, 100,000 Genomes Project data, and patient genetic and phenotype data [see https://bit.ly/3dubFqy]. 
 
 The code I share here or contribute to elsewhere is usually linked to publications, listed below.
+
+Repository: `ImperialCardioGenetics/Scoliosis/`
+
+Identification of an increased lifetime risk of major adverse cardiovascular events in participants of the UK Biobank with scoliosis.
+Santofimio V., et al. Final draft.
+doi: TBC
 
 Repository: `ImperialCardioGenetics/variantfx/`
 
