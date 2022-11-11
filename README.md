@@ -23,6 +23,7 @@ McGurk K., et al., 2022, Final draft.
 doi: TBC
 
 Repository: `https://github.com/ImperialCollegeLondon/trabecular_genetics`
+
 Repository: `ImperialCollegeLondon/fractalgenetics/`
 
 Rare variant and phenotype analyses of adult cardiac trabecular morphology in the UK Biobank.
