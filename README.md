@@ -16,7 +16,7 @@ doi: TBC
 
 Repository: `ImperialCardioGenetics/variantfx/`
 
-The penetrance of rare cardiomyopathy-associated DNA variants: a cross-sectional approach to estimate penetrance using large case series.
+The penetrance of rare cardiomyopathy-associated DNA variants: a cross-sectional approach to estimate penetrance for secondary findings.
 
 McGurk K., et al., 2022, Final draft.
 
