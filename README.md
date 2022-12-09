@@ -22,7 +22,7 @@ McGurk K., et al., 2022, Final draft.
 
 doi: TBC
 
-Repository: `https://github.com/ImperialCollegeLondon/trabecular_genetics`
+Repository: `ImperialCollegeLondon/trabecular_genetics/`
 
 Repository: `ImperialCollegeLondon/fractalgenetics/`
 
