@@ -29,7 +29,7 @@ Identification of an increased lifetime risk of major adverse cardiovascular eve
 
 Santofimio V., et al. 2023 Open Heart.
 
-doi: 10.1136/openhrt-2022-002224
+doi: https://doi.org/10.1136/openhrt-2022-002224
 
 Repository: `kmcgurk/TaurineDCM/`
 
@@ -37,7 +37,7 @@ Effect of taurine administration on symptoms, severity, or clinical outcome of d
 
 McGurk K., et al., Feb 2022, Wellcome Open Res.
 
-doi: 10.12688/wellcomeopenres.17505.2
+doi: https://doi.org/10.12688/wellcomeopenres.17505.2
 
 Repository: `ImperialCollegeLondon/HCM_expressivity/`
 
@@ -45,4 +45,4 @@ Phenotypic expression and outcomes in individuals with rare genetic variants of 
 
 de Marvao A., McGurk K., et al., 2021, JACC.
 
-doi: 10.1016/j.jacc.2021.07.017
+doi: https://doi.org/10.1016/j.jacc.2021.07.017
