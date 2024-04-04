@@ -6,7 +6,7 @@ I'm a self-taught R user with training in bioinformatics and/or statistics from 
 
 The code I share here or contribute to elsewhere is usually linked to publications, listed below.
 
-Repository: `ImperialCollegeLondon/trabecular_genetics/`
+Repository: `ImperialCollegeLondon/trabecular_variants/` https://github.com/ImperialCollegeLondon/trabecular_variants
 Repository: `ImperialCollegeLondon/fractalgenetics/`
 
 Genetic and phenotypic architecture of human myocardial trabeculation.
