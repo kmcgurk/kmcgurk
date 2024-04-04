@@ -2,35 +2,34 @@
 
 I'm Kathryn McGurk, a cardiovascular geneticist / bioinformatician at Imperial College London, UK. 
 
-I'm a self-taught R user with training in bioinformatics and/or statistics from the University Oxford, University of Cambridge, MRC Biostatistics Unit, and Wellcome Trust Genome Campus. I use HPCs, bash, linux, and python, to get the job done, and Rmarkdown and jupyter lab for code. I have a background analysing metabolomic data (bioactive lipids), proteomic data, common genetic variants of families, and now I analyse the UK Biobank data, 100,000 Genomes Project data, and patient genetic and phenotype data [see https://bit.ly/3dubFqy]. 
+I'm a self-taught R user with training in bioinformatics and/or statistics from the University Oxford, University of Cambridge, MRC Biostatistics Unit, and Wellcome Trust Genome Campus. I use HPCs, cloud services, bash, linux, and python, to get the job done, and Rmarkdown and jupyter for code. I have a background analysing metabolomic data (lipids), proteomic data, common genetic variants of families, the UK Biobank data, 100,000 Genomes Project data, and patient genetic and phenotype data [see https://bit.ly/3dubFqy]. 
 
 The code I share here or contribute to elsewhere is usually linked to publications, listed below.
 
-Repository: `ImperialCardioGenetics/Scoliosis/`
-
-Identification of an increased lifetime risk of major adverse cardiovascular events in participants of the UK Biobank with scoliosis.
-
-Santofimio V., et al. Final draft.
-
-doi: TBC
-
-Repository: `ImperialCardioGenetics/variantfx/`
-
-The penetrance of rare cardiomyopathy-associated DNA variants: a cross-sectional approach to estimate penetrance for secondary findings.
-
-McGurk K., et al., 2022, Final draft.
-
-doi: TBC
-
 Repository: `ImperialCollegeLondon/trabecular_genetics/`
-
 Repository: `ImperialCollegeLondon/fractalgenetics/`
 
-Rare variant and phenotype analyses of adult cardiac trabecular morphology in the UK Biobank.
+Genetic and phenotypic architecture of human myocardial trabeculation.
 
 McGurk K., et al., TBC.
 
-doi: TBC
+doi: https://doi.org/10.1101/2024.03.26.24304726
+
+Repository: `ImperialCardioGenetics/variantfx/`
+
+The penetrance of rare variants in cardiomyopathy-associated genes: a cross-sectional approach to estimate penetrance for secondary findings.
+
+McGurk K., et al., 2023, AJHG.
+
+doi: https://doi.org/10.1016/j.ajhg.2023.08.003
+
+Repository: `ImperialCardioGenetics/Scoliosis/`
+
+Identification of an increased lifetime risk of major adverse cardiovascular events in UK Biobank participants with scoliosis.
+
+Santofimio V., et al. 2023 Open Heart.
+
+doi: 10.1136/openhrt-2022-002224
 
 Repository: `kmcgurk/TaurineDCM/`
 
@@ -44,6 +43,6 @@ Repository: `ImperialCollegeLondon/HCM_expressivity/`
 
 Phenotypic expression and outcomes in individuals with rare genetic variants of hypertrophic cardiomyopathy.
 
-de Marvao A., McGurk K., et al., Sep 2021, JACC.
+de Marvao A., McGurk K., et al., 2021, JACC.
 
 doi: 10.1016/j.jacc.2021.07.017
